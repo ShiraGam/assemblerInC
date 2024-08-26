@@ -65,6 +65,11 @@ If no errors are detected during the assembly process, the assembler generates t
 
 This assembler software is designed specifically for the assembly language defined in this project. While general explanations about the functioning of assemblers may occasionally reference this specific assembler, the focus remains on the implementation of the assembler for the defined assembly language.
 
+## Collaboration
+
+This project was done in collaboration with Ayala Hakarmi.
+
+
 ## Next Steps
 
 After the assembly process, the generated output files can be further processed through linking and loading steps to prepare the code for execution on hardware. However, these steps are not covered in this project.
