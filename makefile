@@ -44,3 +44,4 @@ assembler: $(OBJS)
 # Clean target
 clean:
 	rm -f $(OBJS) run
+
